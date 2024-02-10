@@ -43,11 +43,11 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     ":))) đéo à",
-    "bấm tiếp đi",
+    ":))) tiếp luôn",
     "vl lai khong a :)",
     "bấm tiếp đi b 🥱",
     "dm bấm yes di dmm 😡😡",
-    "ae ta chấm muối tại đây 😒",
+    "r ok, tắt tab này đi, quên nó đi, t xloi.",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
